@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         CF ToolSet
+// @name         CF ToolKit
 // @namespace    http://tampermonkey.net/
 // @version      0.1
 // @description  CF Shortcut
@@ -162,7 +162,7 @@
                   padding : 3px 15px ;
                   font-weight : 700 ;
                   font-family: 'Trebuchet MS', sans-serif;
-				}
+                }
              </style>`;
 
             let table = document.querySelector(".rtable")
